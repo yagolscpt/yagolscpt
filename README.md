@@ -1,4 +1,4 @@
-## Hello Im Yago, I have loved technology since I was a child and the internet is my world. 👨‍💻
+## Hello Im Yago, I have loved technology since I was a child and the internet is my world.
 
 ### Adquired emblems
 ![](hacktober2.png)
