@@ -1,7 +1,7 @@
 ## Hello Im Yago, I have loved technology since I was a child and the internet is my world. 👨‍💻
 
 ### Adquired emblems
-![](hacktober.png)
+![](hacktober2.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yagolscpt&label=Profile%20views&color=0e75b6&style=flat" alt="yagolscpt" /> </p>
 
