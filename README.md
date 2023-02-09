@@ -20,6 +20,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yagolscpt&show_icons=true&locale=en" alt="yagolscpt" /></p>
 
 <!--START_SECTION:lapras-card-->
-<a href="
-https://lapras.com/public/GY5EDZX"><img src="https://lapras-card-generator.vercel.app/api/svg?e=1.82&b=2.85&i=2.31&b1=%23232323&b2=%236d6d6d&i1=%23212121&i2=%23818181&l=en" width="400"></a>
+<a href="https://lapras.com/public/GY5EDZX"><img src="https://lapras-card-generator.vercel.app/api/svg?e=1.82&b=2.85&i=2.31&b1=%23232323&b2=%236d6d6d&i1=%23212121&i2=%23818181&l=en" width="400"></a>
 <!--END_SECTION:lapras-card-->
