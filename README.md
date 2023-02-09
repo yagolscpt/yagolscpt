@@ -19,3 +19,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yagolscpt&show_icons=true&locale=en" alt="yagolscpt" /></p>
 
+<!--START_SECTION:lapras-card-->
+<!--END_SECTION:lapras-card-->
